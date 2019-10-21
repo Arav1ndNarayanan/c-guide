@@ -2,8 +2,10 @@
 
 int main()
 {
-    int n,c;
-  printf("%d\a",n+c);
+    int n;
+  printf("enter a number");
+    scanf("%d",&n);
+    printf("%d",n);
 
     return 0;
 }
